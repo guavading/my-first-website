@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-50 bg-[#8B4513] text-white shadow-lg">
+      <header className="fixed top-0 left-0 right-0 z-50 bg-[#9E5826] text-white shadow-lg">
         <div className="container mx-auto px-4 py-3">
           <nav className="space-x-4">
             <a
